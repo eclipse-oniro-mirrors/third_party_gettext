@@ -70,7 +70,6 @@ ohos_source_set("gettext_dynamic") {
     configs = [":libintl_config"]
     include_dirs = [
         "//third_party/gettext/gettext-runtime",
-        "//third_party/gettext/gettext-runtime/gnulib-lib",
         "//third_party/gettext/gettext-runtime/intl",
     ]
 }
