@@ -1,8 +1,8 @@
 [
     {
         "Name": "gettext",
-        "License": "LGPL V2.0", "GPL V3.0",
-        "License File": "COPYING", "gettext-runtime/COPYING",
+        "License": "LGPL V2.0/GPL V3.0",
+        "License File": "COPYING/gettext-runtime/COPYING",
         "Owner": "lixin113@huawei.com",
         "Version Number": "0.21",
         "Upstream URL": "https://www.gnu.org/software/gettext/",
