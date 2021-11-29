@@ -2060,7 +2060,7 @@ Note:If the text contains special characters, please escape them according to th
                 <policyitem type="compatibility" name="GPLStyleLicense" path="libtextstyle/lib/libcroco/cr-simple-sel.h" desc="not use this file"/>
                 <policyitem type="compatibility" name="GPLStyleLicense" path="libtextstyle/lib/libcroco/cr-utils.h" desc="not use this file"/>
                 <policyitem type="compatibility" name="GPLStyleLicense" path="libtextstyle/m4/init-package-version.m4" desc="not use this file"/>
-                <policyitem type="compatibility" name="GPLStyleLicense" path="COPYING" desc="not use this file"/>
+                <policyitem type="compatibility" name="GPL-3.0-or-later" path="COPYING" desc="not use this file"/>
                 <policyitem type="compatibility" name="GPLStyleLicense" path="gettext-runtime/gnulib-lib/getopt-ext.h" desc="not use this file"/>
                 <policyitem type="compatibility" name="GPLStyleLicense" path="gettext-runtime/gnulib-lib/iswxdigit.c" desc="not use this file"/>
                 <policyitem type="compatibility" name="GPLStyleLicense" path="gettext-runtime/gnulib-lib/msvc-inval.c" desc="not use this file"/>
@@ -2535,7 +2535,7 @@ Note:If the text contains special characters, please escape them according to th
                 <policyitem type="compatibility" name="GPLStyleLicense" path="gettext-tools/libgrep/glthread/threadlib.c" desc="not use this file"/>
                 <policyitem type="compatibility" name="GPLStyleLicense" path="gettext-tools/man/msgcat.1" desc="not use this file"/>
                 <policyitem type="compatibility" name="GPLStyleLicense" path="gettext-tools/tests/xg-c-1.ok.po" desc="not use this file"/>
-                <policyitem type="compatibility" name="GPLStyleLicense" path="libtextstyle/COPYING" desc="not use this file"/>
+                <policyitem type="compatibility" name="GPL-3.0-or-later" path="libtextstyle/COPYING" desc="not use this file"/>
                 <policyitem type="compatibility" name="GPLStyleLicense" path="libtextstyle/gnulib-local/lib/glib/glist.c" desc="not use this file"/>
                 <policyitem type="compatibility" name="GPLStyleLicense" path="libtextstyle/gnulib-local/lib/libcroco/cr-attr-sel.c" desc="not use this file"/>
                 <policyitem type="compatibility" name="GPLStyleLicense" path="libtextstyle/gnulib-local/lib/libcroco/cr-om-parser.c" desc="not use this file"/>
@@ -2555,17 +2555,17 @@ Note:If the text contains special characters, please escape them according to th
                 <policyitem type="compatibility" name="GPLStyleLicense" path="gettext-tools/examples/hello-c++-kde/hellowindow.h" desc="not use this file"/>
                 <policyitem type="compatibility" name="GPLStyleLicense" path="gettext-tools/gnulib-lib/float+.h" desc="not use this file"/>
 				<policyitem type="compatibility" name="LGPLStyleLicense" path="gettext-runtime/libasprintf/vasnprintf.h" desc="not use this file"/>
-                <policyitem type="compatibility" name="LGPLStyleLicense" path="libtextstyle/gnulib-local/modules/termcap-h" desc="not use this file"/>
+                <policyitem type="compatibility" name="InvalidLicense" path="libtextstyle/gnulib-local/modules/termcap-h" desc="not use this file"/>
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="libtextstyle/lib/notinline.h" desc="not use this file"/>
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="gettext-runtime/COPYING" desc="not use this file"/>
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="gettext-runtime/intl-java/ChangeLog.0" desc="not use this file"/>
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="gettext-runtime/libasprintf/vasprintf.c" desc="not use this file"/>
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="gettext-tools/gnulib-m4/canonicalize.m4" desc="not use this file"/>
-                <policyitem type="compatibility" name="LGPLStyleLicense" path="libtextstyle/gnulib-local/modules/terminfo" desc="not use this file"/>
+                <policyitem type="compatibility" name="InvalidLicense" path="libtextstyle/gnulib-local/modules/terminfo" desc="not use this file"/>
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="libtextstyle/lib/version.c" desc="not use this file"/>
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="gettext-runtime/libasprintf/vasprintf.h" desc="not use this file"/>
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="libtextstyle/gnulib-local/modules/libcroco" desc="not use this file"/>
-                <policyitem type="compatibility" name="LGPLStyleLicense" path="libtextstyle/gnulib-local/modules/terminfo-h" desc="not use this file"/>
+                <policyitem type="compatibility" name="InvalidLicense" path="libtextstyle/gnulib-local/modules/terminfo-h" desc="not use this file"/>
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="gettext-runtime/ChangeLog.0" desc="not use this file"/>
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="gettext-runtime/libasprintf/Makefile.am" desc="not use this file"/>
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="gettext-runtime/libasprintf/verify.h" desc="not use this file"/>
@@ -2576,7 +2576,7 @@ Note:If the text contains special characters, please escape them according to th
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="gettext-runtime/libasprintf/errno.in.h" desc="not use this file"/>
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="gettext-tools/doc/lang-java.texi" desc="not use this file"/>
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="gettext-tools/examples/hello-c++-kde/admin/acinclude.m4.in" desc="not use this file"/>
-                <policyitem type="compatibility" name="LGPLStyleLicense" path="gnulib-local/modules/markup" desc="not use this file"/>
+                <policyitem type="compatibility" name="InvalidLicense" path="gnulib-local/modules/markup" desc="not use this file"/>
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="gettext-runtime/libasprintf/xsize.h" desc="not use this file"/>
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="gettext-tools/gnulib-m4/filenamecat.m4" desc="not use this file"/>
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="gettext-runtime/tests/ChangeLog.0" desc="not use this file"/>
@@ -2584,7 +2584,7 @@ Note:If the text contains special characters, please escape them according to th
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="gnulib-local/lib/mem-hash-map.h" desc="not use this file"/>
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="gettext-runtime/libasprintf/lgpl.texi" desc="not use this file"/>
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="gettext-tools/examples/hello-c++-kde/admin/conf.change.pl" desc="not use this file"/>
-                <policyitem type="compatibility" name="LGPLStyleLicense" path="libtextstyle/gnulib-local/modules/moo" desc="not use this file"/>
+                <policyitem type="compatibility" name="InvalidLicense" path="libtextstyle/gnulib-local/modules/moo" desc="not use this file"/>
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="gettext-runtime/libasprintf/lib-asprintf.c" desc="not use this file"/>
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="libtextstyle/gnulib-local/lib/tparm.c" desc="not use this file"/>
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="gettext-runtime/gnulib-m4/canonicalize.m4" desc="not use this file"/>
@@ -2607,7 +2607,7 @@ Note:If the text contains special characters, please escape them according to th
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="gettext-runtime/libasprintf/printf-parse.c" desc="not use this file"/>
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="gettext-tools/examples/hello-c++-kde/admin/configure.in.min" desc="not use this file"/>
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="gettext-tools/examples/hello-c-gnome/INSTALL" desc="not use this file"/>
-                <policyitem type="compatibility" name="LGPLStyleLicense" path="gnulib-local/modules/backupfile" desc="not use this file"/>
+                <policyitem type="compatibility" name="InvalidLicense" path="gnulib-local/modules/backupfile" desc="not use this file"/>
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="gettext-runtime/doc/ChangeLog.0" desc="not use this file"/>
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="gettext-runtime/libasprintf/COPYING" desc="not use this file"/>
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="gettext-runtime/libasprintf/autosprintf.cc" desc="not use this file"/>
@@ -2620,7 +2620,7 @@ Note:If the text contains special characters, please escape them according to th
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="libtextstyle/lib/stdbool.mini.h" desc="not use this file"/>
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="gettext-runtime/libasprintf/vasnprintf.c" desc="not use this file"/>
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="libtextstyle/gnulib-local/lib/libcroco/libcroco-config.h" desc="not use this file"/>
-                <policyitem type="compatibility" name="LGPLStyleLicense" path="libtextstyle/gnulib-local/modules/termcap" desc="not use this file"/>
+                <policyitem type="compatibility" name="InvalidLicense" path="libtextstyle/gnulib-local/modules/termcap" desc="not use this file"/>
 				<policyitem type="compatibility" name="InvalidLicense" path="gettext-tools/examples/.*" desc="not use this file"/>
 				<policyitem type="compatibility" name="FSFAP" path="gettext-tools/examples/.*" desc="not use this file"/>
 				<policyitem type="compatibility" name="GPL-2.0+" path="gettext-tools/examples/.*" desc="not use this file"/>
@@ -2672,7 +2672,23 @@ Note:If the text contains special characters, please escape them according to th
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="gettext-runtime/intl/libgnuintl.h" desc="the License of this file is LGPL"/>
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="os2/iconv/.*" desc="not use this file"/>
                 <policyitem type="compatibility" name="InvalidLicense" path="Admin/release-steps" desc="not use this file"/>
+                <policyitem type="license" name="NoLicenseHeader" path=".dir-locals.el" desc="not use this file"/>
+                <policyitem type="filepath" name="gettext-tools/.*" desc="not use this file"/>
+                <policyitem type="filepath" name="gettext-runtime/.*" desc="not use this file"/>
+                <policyitem type="filepath" name="m4/.*" desc="not use this file"/>
+                <policyitem type="filepath" name="libtextstyle/.*" desc="not use this file"/>
+                <policyitem type="filepath" name="gnulib-local/.*" desc="not use this file"/>
+                <policyitem type="copyright" name="gettext-tools/.*" desc="not use this file"/>
+                <policyitem type="copyright" name="gettext-runtime/.*" desc="not use this file"/>
+                <policyitem type="copyright" name="m4/.*" desc="not use this file"/>
+                <policyitem type="copyright" name="libtextstyle/.*" desc="not use this file"/>
+                <policyitem type="copyright" name="gnulib-local/.*" desc="not use this file"/>
             </policy>
         </policylist>
+        <filefilterlist>
+            <filefilter name="binaryFileTypePolicyFilter" desc="Filters for binary file policies">
+                <filteritem type="filepath" name=".*" desc="Resource, config and certification binary."/>
+            </filefilter>
+        </filefilterlist>
     </oatconfig>
 </configuration>
