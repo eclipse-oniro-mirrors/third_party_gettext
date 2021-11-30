@@ -2672,20 +2672,12 @@ Note:If the text contains special characters, please escape them according to th
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="gettext-runtime/intl/libgnuintl.h" desc="the License of this file is LGPL"/>
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="os2/iconv/.*" desc="not use this file"/>
                 <policyitem type="compatibility" name="InvalidLicense" path="Admin/release-steps" desc="not use this file"/>
-                <policyitem type="license" name="NoLicenseHeader" path=".dir-locals.el" desc="not use this file"/>
-                <policyitem type="filepath" name="gettext-tools/.*" desc="tools file"/>
-                <policyitem type="filepath" name="gettext-runtime/.*" desc="runtime file"/>
-                <policyitem type="filepath" name="m4/.*" desc="m4 file"/>
-                <policyitem type="filepath" name="libtextstyle/.*" desc="text file"/>
-                <policyitem type="filepath" name="gnulib-local/.*" desc="local file"/>
-                <policyitem type="filepath" name="Admin/.*" desc="admin file"/>
-                <policyitem type="filepath" name="build-aux/.*" desc="build-aux file"/>
-                <policyitem type="filepath" name="gnulib/.*" desc="gnulib file"/>
-                <policyitem type="filepath" name="os2/.*" desc="os file"/>
-                <policyitem type="filepath" name="windows/.*" desc="windows file"/>
             </policy>
         </policylist>
         <filefilterlist>
+            <filefilter name="defaultPolicyFilter" desc="Filters for compatibility，license header policies">
+                <filteritem type="filepath" name=".*" desc="The files involved in compilation are the LGPL protocol.They are used in dynamic link mode."/>
+            </filefilter>
             <filefilter name="binaryFileTypePolicyFilter" desc="Filters for binary file policies">
                 <filteritem type="filepath" name=".*" desc="Resource, config and certification binary."/>
             </filefilter>
