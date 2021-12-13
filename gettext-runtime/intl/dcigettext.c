@@ -137,6 +137,7 @@ extern int errno;
 # endif
 # define tfind __tfind
 #else
+#ifdef OHOS_OPT_COMPAT
 # if !defined HAVE_GETCWD
 char *getwd ();
 #  define getcwd(buf, max) getwd (buf)
@@ -147,6 +148,7 @@ char *getwd ();
 char *getcwd ();
 #  endif
 # endif
+#endif
 # ifndef HAVE_STPCPY
 static char *stpcpy (char *dest, const char *src);
 # endif
