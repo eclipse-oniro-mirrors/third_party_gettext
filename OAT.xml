@@ -2672,6 +2672,7 @@ Note:If the text contains special characters, please escape them according to th
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="gettext-runtime/intl/libgnuintl.h" desc="the License of this file is LGPL"/>
                 <policyitem type="compatibility" name="LGPLStyleLicense" path="os2/iconv/.*" desc="not use this file"/>
                 <policyitem type="compatibility" name="InvalidLicense" path="Admin/release-steps" desc="not use this file"/>
+                <policyitem type="copyright" name="Copyright (C) 1995-1997, 2000-2016, 2018-2020 Free Software Foundation, Inc." path="gettext-runtime/intl/libintl.h" desc="not use this file"/>
             </policy>
         </policylist>
         <filefilterlist>
